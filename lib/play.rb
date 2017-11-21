@@ -41,8 +41,7 @@ def play(board)
 
 end
 counter = 0
- 
-loop do 
+loop do
   counter += 1
   play(board)
   if counter >= 9
