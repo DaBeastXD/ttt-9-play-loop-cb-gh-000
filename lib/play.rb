@@ -46,5 +46,4 @@ def play(board)
     end
   end
 
-end
-counter = 0
+
