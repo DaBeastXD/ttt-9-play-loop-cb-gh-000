@@ -34,5 +34,6 @@ def turn(board)
     turn(board)
   end
 end
+def move(board, index)
 
 # Define your play method below
