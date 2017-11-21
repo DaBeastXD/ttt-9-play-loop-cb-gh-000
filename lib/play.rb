@@ -37,3 +37,4 @@ end
 def move(board, index)
 
 # Define your play method below
+def play(board)
