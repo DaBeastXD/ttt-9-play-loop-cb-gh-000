@@ -38,3 +38,14 @@ def move(board, index)
 
 # Define your play method below
 def play(board)
+
+end
+counter = 0
+ 
+loop do 
+  counter += 1
+  play(board)
+  if counter >= 9
+    break
+  end
+end
